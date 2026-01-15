@@ -59,7 +59,7 @@ This is primarily a learning project focused on:
 
 MIT License
 
-See `LICENSE` file for details.
+See `LICENSE.txt` file for details.
 
 ## Third-Party Assets
 
