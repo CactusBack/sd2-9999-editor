@@ -1,6 +1,6 @@
 # SD2 9999 Editor
 
-<img src="https://github.com/user-attachments/assets/3230432d-e298-4a58-aa8e-6fabfe498207" alt="SD2 9999 Editor Screenshot" width="800"/>
+<img src="https://github.com/user-attachments/assets/96a8079a-2cb3-4984-98aa-e42d953373aa" alt="SD2 9999 Editor Screenshot" width="800"/>
 
 A small open-source ImGui-based desktop tool for viewing and editing the `9999.dat` move data file used by *WWF SmackDown! 2: Know Your Role*.
 
