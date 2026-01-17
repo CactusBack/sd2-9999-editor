@@ -12,7 +12,7 @@ This is primarily a learning project focused on:
 
 ## Features
 
-* View move sections inside 9999.dat
+* View move sections inside `9999.dat`
 * Edit move ID and type (category) values
 * Add and delete entries
 * Preserve unknown trailing data at the end of the file
